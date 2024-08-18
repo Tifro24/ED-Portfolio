@@ -15,25 +15,25 @@ function Projects() {
            src={viberr} 
            link={'#'} 
            h3='Mario Game'
-           p = 'A side scroller platformer'
+           p = 'Platformer Game (JS)'
            />
             <ProjectCard 
            src={freshBurger} 
            link={'#'} 
            h3='Noob Fight'
-           p = 'A two player fight game'
+           p = 'Fighting Game (JS)'
            />
              <ProjectCard 
            src={fitLift} 
            link={'#'} 
            h3='Weather App'
-           p = 'A Weather Forecasting App (Python)'
+           p = '(Python)'
            />
            <ProjectCard 
            src={hipsster} 
            link={'#'} 
-           h3='Anime Heroes vs Villains Database'
-           p = 'A database consisting of popular anime heroes and villains (MySQL)'
+           h3='Anime Fight Db'
+           p = '(MySQL)'
            />
         </div>
     </section>

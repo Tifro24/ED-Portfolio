@@ -13,7 +13,7 @@ function Contact() {
             type="text" 
             name="name" 
             id="name" 
-            placeholder='name' 
+            placeholder='Name' 
             required
             />
         </div>
